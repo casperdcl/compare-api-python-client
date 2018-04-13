@@ -42,6 +42,14 @@ Getting started
 pip install draftable-compare-api
 ```
 
+- Use the commandline client
+
+```sh
+draftable --help
+```
+
+or alternatively use the python API (below)
+
 - Instantiate a client
 
 ```python
